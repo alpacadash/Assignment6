@@ -35,3 +35,6 @@ together and displays the result in hexadecimal.
 NOT_op : Prompt the user for a hexadecimal integer . NOT the integer
 
 and displays the result in hexadecimal.
+
+Error checking : Your program should check for valid menu selection.
+In case of invalid selection, it will do nothing but will continue waiting for input. Implement the program with case table.
